@@ -1,0 +1,15 @@
+create a local sql database mirroring the greg website with sample data
+have a featured table				- use all 5 products currently in there
+have a us_2 table that has all products		- use 10 from each category
+
+WITHOUT AI
+
+create a backend for crud operation (learn sql)
+create a frontend to interact with the backend
+
+after learning how to manipulate table properly
+
+build out a php endpoint that simply acts as a gateway so that nodejs instead of running the sql query on the local table, it passes it to the php endpoint then the php simply executes it
+
+
+
